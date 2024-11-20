@@ -222,6 +222,7 @@ p{
 .banner_wrapper .banner-content h2::after {
     content: "";
     width: 60%;
+    margin-left: 50px;
     height: 0.125rem;
     position: absolute;
     top: 50%;
